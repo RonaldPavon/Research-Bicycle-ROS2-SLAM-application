@@ -140,6 +140,12 @@ If you need to rebuild or update the Docker containers, follow these steps:
 - **Data not saving or missing `.db3` files**  
   - Check that `/mnt/mcap` is mounted and writable when launching the web-app container
  
+## SLAM Results
 
-
+<img src="assets/closed_top_view.png" alt="BobbiV2 Research Bicycle" title="BobbiV2 Research Bicycle" width="600">
+<p><em>Figure 5: SLAM mappipng results top view compared to Google Earth imagery</em></p>
+<img src="assets/closed_path_isoview_google.png" alt="BobbiV2 Research Bicycle" title="BobbiV2 Research Bicycle" width="600">
+<p><em>Figure 6: SLAM mappipng results isometric views compared to Google Earth imagery</em></p>
+<img src="assets/straight_path_isoview_google.png" alt="BobbiV2 Research Bicycle" title="BobbiV2 Research Bicycle" width="600">
+<p><em>Figure 7: SLAM mappipng results isometric views compared to Google Earth imagery</em></p>
 
